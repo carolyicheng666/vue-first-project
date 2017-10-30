@@ -10,7 +10,6 @@
 
 <script>
 import Storage from './storage'
-console.log(Storage)
 export default {
   data: function() {
     return {
